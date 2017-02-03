@@ -17,7 +17,9 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "topthink/framework": "^5.0"
+        "topthink/framework": "^5.0",
+        "twbs/bootstrap": "^3.3",
+        "xiaogouxo/phpfetcher": "dev-master"
     },
     "extra": {
         "think-path": "thinkphp"
